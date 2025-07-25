@@ -1,0 +1,41 @@
+
+html, body{
+    margin:20px;
+    padding: 33px;
+    font-family: 'Rubik', sans-serif;
+    background-color: #ffff;
+
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    max-width:320px;
+    margin: 30px auto;
+}
+img{
+    margin:0 auto;
+
+}
+input{
+    color: rgba(0, 0, 0, 0.521);
+    background-color: rgba(255, 230, 0, 0.671);
+    border:0;
+    padding: 25px;
+    border-radius:5px;
+    font-size: 18px;
+    font-family: 'Rubik', sans-serif;
+    text-align:center;
+    margin:5px;
+}    
+
+button {
+    margin:5px;
+    color: rgb(255, 255, 255);
+    background-color:rgba(224, 66, 18, 0.829);
+    border:0;
+    padding:15px;
+    border-radius: 5px;
+    font-size:medium;
+    text-align:center;
+
+}
